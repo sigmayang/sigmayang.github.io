@@ -10,6 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [深度学习](https://sigmayang.github.io/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/)
 1. [Readme](https://sigmayang.github.io/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/README.md)
 
+[github配置文件](https://github.com/sigmayang/Notes/blob/master/GitHub/%E9%85%8D%E7%BD%AE%E6%9C%AC%E5%9C%B0.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
