@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 【诗歌】
-1. [相信未来](https://sigmayang.github.io/%E8%AF%97%E6%AD%8C/%E7%9B%B8%E4%BF%A1%E6%9C%AA%E6%9D%A5)
+1. [相信未来](https://sigmayang.github.io/诗歌/相信未来/)
 
 
 [github配置文件](https://github.com/sigmayang/Notes/blob/master/GitHub/%E9%85%8D%E7%BD%AE%E6%9C%AC%E5%9C%B0.md)
