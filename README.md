@@ -1,4 +1,4 @@
-## Welcome to Sigmayang GitHub Pages
+## Sigmayang GitHub Pages
 
 【诗歌】
 1. [相信未来](https://sigmayang.github.io/诗歌/相信未来/)
