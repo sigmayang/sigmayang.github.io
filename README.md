@@ -8,11 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 [深度学习](https://sigmayang.github.io/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/)
-1. [Readme](https://sigmayang.github.io/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/README.md)
 
 
 【诗歌】
-1. [相信未来](https://sigmayang.github.io/相信未来.md)
+1. [相信未来](https://sigmayang.github.io/%E8%AF%97%E6%AD%8C/%E7%9B%B8%E4%BF%A1%E6%9C%AA%E6%9D%A5)
+
 
 [github配置文件](https://github.com/sigmayang/Notes/blob/master/GitHub/%E9%85%8D%E7%BD%AE%E6%9C%AC%E5%9C%B0.md)
 
